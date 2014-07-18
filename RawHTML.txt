@@ -1,0 +1,3653 @@
+
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="ie6 no-js lt-ie9 lt-ie8 lt-ie7" lang="sv"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7 no-js lt-ie9 lt-ie8" lang="sv"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8 no-js lt-ie9" lang="sv"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9 no-js" lang="sv"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="sv"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="keywords" content="" />
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=2.0"> 
+<!--
+/*
+ * MyFonts Webfont Build ID 802132, 2011-05-10T09:53:26-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Serifa Black
+ * URL: http://new.myfonts.com/fonts/bitstream/serifa/black/
+ * Foundry: Bitstream
+ * Copyright: Copyright 1990-2003 Bitstream Inc. All rights reserved.
+ * License: http://www.myfonts.com/viewlicense?1056
+ * Licensed pageviews: unlimited/month
+ * CSS font-family: SerifaBT-Black
+ * CSS font-weight: normal
+ * 
+ * (c) 2011 Bitstream Inc
+*/
+-->
+    
+	<link rel="stylesheet" type="text/css" href="/media/css/kjell_rendered.css?r=7938A7DFCD82F15DB0994A0AD25417A7" />
+    
+    <title>Arctic Silver 5 &gt; Kylpasta | Kjell.com</title>
+    <link rel="shortcut icon" href="/media/images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/media/images/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/media/images/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/media/images/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/media/images/apple-touch-icon-57x57-precomposed.png">
+    <meta name="description" content="Extremt effektiv kylpasta tillverkad med silverpartiklar av tre olika  mikroniserade  storlekar för att maximera kontakten mellan ytorna." />      
+    <script type="text/javascript" src="/media/js/libs/jquery-1.10.2.min.js"></script>
+
+    
+    <script type="text/javascript" src="/media/js/libs/modernizr.custom.32510.js"></script>
+    <script type="text/javascript">document.cookie = 'eSalesTicket=;Path=/';</script>
+
+    
+  
+    <meta property="og:title" content="Arctic Silver 5 - Kylpasta | Kjell.com"/>
+    <meta property="og:url" content="http://www.kjell.com/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/arctic-silver-5-p36009"/>
+    <link rel="canonical" href="http://www.kjell.com/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/arctic-silver-5-p36009" />
+    
+
+<meta property="og:image" content="http://www.kjell.com/image/Product_130399711315545015/product/1" />
+<link rel="image_src" href="http://www.kjell.com/image/Product_130399711315545015/product/1" />
+   
+
+</head>
+
+
+<body>
+
+
+    <input type="hidden" id="ServerNbr" value ="16"/>
+
+    <div class="hidden">
+        
+    </div>
+
+    <div class="pageBody">
+
+        <div id="Header">
+
+			<div class="mobileHeader">
+                
+
+	<div class="mainBar">
+		<div class="storeDisplay">
+			
+			
+            <div id="storeNameDisplay" style="display: block" >
+                <span class="storeTag">Butik: </span>
+			    <span class="storeName"> Sundsvall - Sundsvall Birsta </span>
+			    <span class="storeExpand"><i class=" icon-sort-down"></i></span>
+            </div>
+            <div id="storeTagDisplay" style="display: none" >
+                <span class="storeTag"> Sundsvall - Sundsvall Birsta </span>	<span class="storeExpand"><i class=" icon-sort-down"></i></span>
+            </div>
+		</div>
+
+		<div class="userIcon">
+			
+			<a href="/mina-sidor/uppgifter" title="Mina sidor"><i class="icon-user"></i></a>	
+        </div>
+	</div>
+
+	<div class="storeDetails clearfix">
+
+		<div class="noStoreChosen">
+			<select class="storesList">
+				
+				<option value="0" disabled="disabled" selected="selected">Välj butik...</option>
+				<option value="gps">Välj närmsta butik via GPS</option>
+				
+				    <option value="66" data-lat="57.9300" data-long="12.5376">
+                        Alings&#229;s
+                    </option>
+				
+				    <option value="45" data-lat="60.4845" data-long="15.4181">
+                        Borl&#228;nge Kupolen
+                    </option>
+				
+				    <option value="09" data-lat="57.7339" data-long="12.9378">
+                        Bor&#229;s - Bor&#229;s Knalleland
+                    </option>
+				
+				    <option value="80" data-lat="57.720493" data-long="12.941446">
+                        Bor&#229;s - Bor&#229;s City
+                    </option>
+				
+				    <option value="35" data-lat="59.3713" data-long="16.46998">
+                        Eskilstuna Tuna Park
+                    </option>
+				
+				    <option value="63" data-lat="60.6052" data-long="15.6320">
+                        Falun
+                    </option>
+				
+				    <option value="19" data-lat="60.63354" data-long="16.99414">
+                        G&#228;vle Valbo
+                    </option>
+				
+				    <option value="32" data-lat="57.73882" data-long="12.10561">
+                        G&#246;teborg - Partille Allum
+                    </option>
+				
+				    <option value="38" data-lat="57.70758" data-long="11.96847">
+                        G&#246;teborg - Nordstan
+                    </option>
+				
+				    <option value="51" data-lat="57.65256" data-long="11.91236">
+                        G&#246;teborg - Fr&#246;lunda Torg
+                    </option>
+				
+				    <option value="65" data-lat="57.769586" data-long="12.000815">
+                        G&#246;teborg - B&#228;ckebol
+                    </option>
+				
+				    <option value="69" data-lat="57.70407" data-long="11.96429">
+                        G&#246;teborg - Kungsgatan 27
+                    </option>
+				
+				    <option value="71" data-lat="57.72259" data-long="11.9545">
+                        G&#246;teborg - Backaplan
+                    </option>
+				
+				    <option value="36" data-lat="56.67540" data-long="12.85755">
+                        Halmstad City
+                    </option>
+				
+				    <option value="04" data-lat="56.0451" data-long="12.6962">
+                        Helsingborg - Helsingborg City
+                    </option>
+				
+				    <option value="10" data-lat="56.0910" data-long="12.7552">
+                        Helsingborg - V&#228;la Centrum
+                    </option>
+				
+				    <option value="07" data-lat="57.78193" data-long="14.17049">
+                        J&#246;nk&#246;ping - J&#246;nk&#246;ping City
+                    </option>
+				
+				    <option value="77" data-lat="57.774851" data-long="14.205622">
+                        J&#246;nk&#246;ping - A6 Center
+                    </option>
+				
+				    <option value="33" data-lat="56.660645" data-long="16.364321">
+                        Kalmar Baronen
+                    </option>
+				
+				    <option value="55" data-lat="56.16227" data-long="15.58364">
+                        Karlskrona
+                    </option>
+				
+				    <option value="18" data-lat="59.37974" data-long="13.50030">
+                        Karlstad
+                    </option>
+				
+				    <option value="05" data-lat="56.02844" data-long="14.15662">
+                        Kristianstad
+                    </option>
+				
+				    <option value="62" data-lat="57.492777" data-long="12.074337">
+                        Kungsm&#228;ssan
+                    </option>
+				
+				    <option value="46" data-lat="58.4106" data-long="15.6265">
+                        Link&#246;ping - Link&#246;ping Gyllenhuset
+                    </option>
+				
+				    <option value="48" data-lat="58.4324" data-long="15.5867">
+                        Link&#246;ping - Link&#246;ping Tornby
+                    </option>
+				
+				    <option value="42" data-lat="65.5842" data-long="22.1543">
+                        Lule&#229;
+                    </option>
+				
+				    <option value="03" data-lat="55.69677" data-long="13.18919">
+                        Lund - Lund City
+                    </option>
+				
+				    <option value="40" data-lat="55.714664" data-long="13.16017">
+                        Lund - Nova Lund
+                    </option>
+				
+				    <option value="08" data-lat="55.76907" data-long="12.987779">
+                        CenterSyd
+                    </option>
+				
+				    <option value="02" data-lat="55.59573" data-long="13.00263">
+                        Malm&#246; - Triangeln
+                    </option>
+				
+				    <option value="06" data-lat="" data-long="">
+                        Malm&#246; - Entr&#233; Malm&#246; (st&#228;ngd)
+                    </option>
+				
+				    <option value="15" data-lat="55.639463" data-long="13.084612">
+                        Malm&#246; - Burl&#246;v Center
+                    </option>
+				
+				    <option value="43" data-lat="55.58103" data-long="13.00379">
+                        Malm&#246; - Mobilia
+                    </option>
+				
+				    <option value="44" data-lat="55.6036" data-long="13.0011">
+                        Malm&#246; - Malm&#246; S&#246;dergatan
+                    </option>
+				
+				    <option value="67" data-lat="55.5648" data-long="12.9728">
+                        Malm&#246; - Emporia
+                    </option>
+				
+				    <option value="70" data-lat="58.5371" data-long="15.0352">
+                        Motala
+                    </option>
+				
+				    <option value="16" data-lat="58.58844" data-long="16.18964">
+                        Norrk&#246;ping - Galleria Domino
+                    </option>
+				
+				    <option value="47" data-lat="58.5730" data-long="16.2102">
+                        Norrk&#246;ping - Hageby Centrum
+                    </option>
+				
+				    <option value="75" data-lat="58.752442" data-long="17.003614">
+                        Nyk&#246;ping
+                    </option>
+				
+				    <option value="78" data-lat="64.751021" data-long="20.952084">
+                        Skellefte&#229;
+                    </option>
+				
+				    <option value="74" data-lat="58.390442" data-long="13.845013">
+                        Sk&#246;vde
+                    </option>
+				
+				    <option value="11" data-lat="59.30941" data-long="18.16438">
+                        Stockholm - Forum Nacka
+                    </option>
+				
+				    <option value="12" data-lat="59.360937" data-long="17.998725">
+                        Stockholm - Solna Centrum
+                    </option>
+				
+				    <option value="14" data-lat="59.40289" data-long="17.94478">
+                        Stockholm - Kista Galleria
+                    </option>
+				
+				    <option value="17" data-lat="59.2432" data-long="18.0908">
+                        Stockholm - Farsta Centrum
+                    </option>
+				
+				    <option value="21" data-lat="59.335224" data-long="18.062722">
+                        Stockholm - Kungsgatan
+                    </option>
+				
+				    <option value="22" data-lat="59.169016" data-long="18.139916">
+                        Stockholm - Haninge Centrum
+                    </option>
+				
+				    <option value="23" data-lat="59.51866" data-long="17.90992">
+                        Stockholm - V&#228;sby Centrum
+                    </option>
+				
+				    <option value="25" data-lat="59.36236" data-long="17.87146">
+                        Stockholm - V&#228;llingby
+                    </option>
+				
+				    <option value="27" data-lat="59.31165" data-long="18.07448">
+                        Stockholm - S&#246;dermalm Skrapan
+                    </option>
+				
+				    <option value="29" data-lat="59.27528" data-long="17.90645">
+                        Stockholm - Sk&#228;rholmen SKHLM
+                    </option>
+				
+				    <option value="31" data-lat="59.44401" data-long="18.06902">
+                        Stockholm - T&#228;by Centrum
+                    </option>
+				
+				    <option value="37" data-lat="59.33447" data-long="18.03369">
+                        Stockholm - Kungsholmen
+                    </option>
+				
+				    <option value="50" data-lat="59.3100" data-long="18.0224">
+                        Stockholm - Liljeholmstorget
+                    </option>
+				
+				    <option value="56" data-lat="59.428275" data-long="17.950727">
+                        Stockholm - Sollentuna
+                    </option>
+				
+				    <option value="57" data-lat="59.4798" data-long="18.2978">
+                        Stockholm - &#197;kersberga
+                    </option>
+				
+				    <option value="59" data-lat="59.3394" data-long="18.0931">
+                        Stockholm - F&#228;lt&#246;versten
+                    </option>
+				
+				    <option value="64" data-lat="59.3327" data-long="18.0678">
+                        Stockholm - Hamngatan
+                    </option>
+				
+				    <option value="76" data-lat="59.243940" data-long="18.230813">
+                        Stockholm - Tyres&#246; Centrum
+                    </option>
+				
+				    <option value="79" data-lat="59.307841" data-long="18.075634">
+                        Stockholm - Ringv&#228;gen
+                    </option>
+				
+				    <option value="41" data-lat="59.0650" data-long="11.2067">
+                        Nordby
+                    </option>
+				
+				    <option value="24" data-lat="62.44712" data-long="17.33587">
+                        Sundsvall Birsta
+                    </option>
+				
+				    <option value="53" data-lat="59.1960" data-long="17.6277">
+                        S&#246;dert&#228;lje Kringlan
+                    </option>
+				
+				    <option value="52" data-lat="58.31271" data-long="12.308137">
+                        Trollh&#228;ttan Etage
+                    </option>
+				
+				    <option value="28" data-lat="58.35296" data-long="11.80673">
+                        Torp K&#246;pcentrum
+                    </option>
+				
+				    <option value="20" data-lat="63.82544" data-long="20.26043">
+                        Ume&#229;
+                    </option>
+				
+				    <option value="30" data-lat="59.86046" data-long="17.6353">
+                        Uppsala - Uppsala City
+                    </option>
+				
+				    <option value="54" data-lat="59.877702" data-long="17.673172">
+                        Uppsala - Uppsala Gr&#228;nby
+                    </option>
+				
+				    <option value="72" data-lat="57.105962" data-long="12.2475">
+                        Varberg
+                    </option>
+				
+				    <option value="73" data-lat="57.6374" data-long="18.3004">
+                        Visby
+                    </option>
+				
+				    <option value="26" data-lat="59.611726" data-long="16.545035">
+                        V&#228;ster&#229;s - V&#228;ster&#229;s City
+                    </option>
+				
+				    <option value="58" data-lat="59.609357" data-long="16.453118">
+                        V&#228;ster&#229;s - Erikslund
+                    </option>
+				
+				    <option value="34" data-lat="56.87955" data-long="14.80048">
+                        V&#228;xj&#246; Tegn&#233;r
+                    </option>
+				
+				    <option value="61" data-lat="55.4303" data-long="13.8233">
+                        Ystad
+                    </option>
+				
+				    <option value="39" data-lat="59.217982" data-long="15.137417">
+                        &#214;rebro - &#214;rebro Marieberg
+                    </option>
+				
+				    <option value="60" data-lat="59.27035" data-long="15.21025">
+                        &#214;rebro - &#214;rebro City
+                    </option>
+				
+				    <option value="68" data-lat="63.2895" data-long="18.7159">
+                        &#214;rnsk&#246;ldsvik
+                    </option>
+				
+				    <option value="49" data-lat="63.176652" data-long="14.637185">
+                        &#214;stersund
+                    </option>
+				
+			</select>
+			<input type="hidden" id="GetStoreUrl" value="/.mvc/Store/MobileShow" />
+			<button type="submit" class="findNearestStore generalBtn orangeButton">Hitta närmsta</button>
+		</div>
+
+		<div class="storeInfo">
+		
+	
+    <h5>Öppettider och adresser <span>(<a class="changeStoreLink" href="">byt butik</a>)</span></h5>
+	
+   <a href="/butiker/sundsvall">
+		<div class="hours">
+			<i class="icon-clock"></i>
+			<div class="storeInfoBlock">
+				Vardagar: 10.00-20.00<br />
+				Lördagar: 10.00-18.00<br />
+				Söndagar: 10.00-18.00
+				<div class="OpeningHoursDifferent">
+					<span>Avvikande öppettider</span>
+				</div>
+			</div>
+		</div>
+		
+		<div class="contact">
+			<span class="phone"><i class="icon-mobile"></i>060-52 51 40</span>
+			<div class="address">
+				<i class="icon-location-1"></i>
+				<div class="storeInfoBlock">
+					Birsta City,<br />
+					Sundsvall
+				</div>
+			</div>
+		</div>
+	</a> 
+	<div class="goToStore">
+		<a href="/butiker/sundsvall">Till butiken &gt;&gt;</a>
+	</div>
+
+		</div>
+		<input type="hidden" class="storeIsChosen" value="True" />
+	</div>
+
+<div class="loginWindow panel">
+	
+
+
+<div id="VatSettings" class="mcVatSettings">
+
+	<span>Priser</span>
+
+	<form action="/.mvc/ClientInfo/SetVatSettings" method="post">
+		<input id="VatTrue" name="withVat" type="radio" value="True" checked='checked' />
+		<label for="VatTrue" id="VatTrue_Label">Inkl. moms</label>
+    
+		<input id="VatFalse" name="withVat" type="radio" value="False"  />
+		<label for="VatFalse" id="VatFalse_Label">Exkl. moms</label>
+    
+		<button type="submit">Ändra</button>
+	</form>
+
+</div>
+<nav class="clearfix accountNav">
+		<h2 class="accountMobileHeader"> Mina sidor</h2>
+		<ul>
+			
+					<li> <a class="leftNavMenuLink" href="/mina-sidor/uppgifter">Uppgifter</a> </li>
+				
+					<li> <a class="leftNavMenuLink" href="/mina-sidor/order">Order</a> </li>
+				
+					<li> <a class="leftNavMenuLink" href="/mina-sidor/mina-enheter">Mina enheter</a> </li>
+				
+					<li> <a class="leftNavMenuLink" href="/mina-sidor/inkopslistor">Ink&#246;pslistor</a> </li>
+				
+		</ul>
+		<button class="generalBtn greenButton"> <a class="logout" href="/.mvc/Login/Logout">Logga ut</a></button> 
+</nav>
+</div>
+			</div>
+
+            <div class="headerRow clearfix">
+                
+                <div class="leftColumn">
+                    <a title="Kjell & Company" href="/" class="ir logo">Kjell & Company</a>
+
+					<div class="mobileContact">
+							
+						<a title="Kundtjänst" href="/kundtjanst">Kundtjänst</a> |
+						<a title="Kundtjänst" href="tel:0106802500">010-680 25 00</a> |
+						<a title="Butiker" href="/butiker">Butiker</a>
+					
+					</div>
+                </div>
+
+			    <div class="centerColumn">
+				    
+
+<div class="storesInHeader">
+    
+	<a href="/butiker" class="clearfix">
+        <span class="storesIcon">&nbsp;</span>
+        <span class="storesTextBox">
+	        <span class="storesTitle"><span class="storesNumber">77</span> butiker</span>
+	        <span class="storesText">Öppettider och addresser</span>
+        </span>
+    </a>
+</div>
+
+			    </div>
+
+			    <div class="rightColumn">
+                    <div class="topRow clearfix">
+				        
+
+<div class="contactLinks">
+    <a title="Kundtjänst" href="/kundtjanst">Kundtjänst</a> |
+    <a title="Kundtjänst" href="tel:0106802500">010-680 25 00</a>
+    <a title="Butiker" class="butiker" href="/butiker"><span>|</span> Butiker</a>
+</div>
+
+<div class="accountLinks">
+	<a class="logout" href="/.mvc/Login/Logout">Logga ut</a>
+        | <a class="myPages" href="/mina-sidor/uppgifter" id="MyPages">Mina sidor</a>
+	
+</div>
+
+<div class="userIconLink">
+	<a href="/.mvc/Login/Logout" title="Logga ut">&nbsp;</a>
+</div>
+                    </div>
+                    <div class="bottomRow clearfix">
+				        <form action="/Sok" id="Search" method="get"><input autocomplete="off" data-helper-text="Hej, vad letar du efter?" data-search-url="/.mvc/ProductSearch/AutoComplete" id="query" name="query" type="text" value="Hej, vad letar du efter?" />
+        
+        <button type="submit" id="ProductSearchButton" type="submit" class="" value="Sök"><i class="icon-search"></i></button>
+        
+    </form>
+                    </div>
+			    </div>
+
+            </div>
+
+            <nav id="MainNavigation" class="clearfix main">
+                
+	
+	<ul class="top-menu clearfix">
+
+		<li class="top-menu-item">
+			<a href="" class="top-menu-item-link" data-tab="AssortmentTabMenu">Sortiment</a>
+		</li>
+		<li class="top-menu-item">
+			<a href="" class="top-menu-item-link" data-tab="AccessoriesTabMenu">Tillbehör till</a>
+		</li>
+		<li class="top-menu-item knowledgeTab">
+            
+			   <a href="/fraga-kjell" class="top-menu-item-link knowledgeDesktop js-islink" data-tab="knowledgeTabMenu">Kunskapsbank</a>
+                    
+                    <a class="top-menu-item-link exclude knowledgeMobile js-islink" href="/fraga-kjell">Kunskap</a>
+               
+		</li>
+		<li class="top-menu-item storesTab">
+			<a href="/butiker" class="top-menu-item-link js-islink" data-tab = "StoresTabMenu">Butiker</a>
+		</li>
+
+	</ul>
+	
+    
+    <div id="AssortmentTabMenu" class="main-nav-tab">
+
+		<ul class="main-nav">
+			
+    			<li><a href="/sortiment/dator-kringutrustning">Dator- &amp; kringutrustning</a></li>
+			
+    			<li><a href="/sortiment/ljud-bild">Ljud &amp; bild</a></li>
+			
+    			<li><a href="/sortiment/el">El</a></li>
+			
+    			<li><a href="/sortiment/hus-halsa-fritid">Hus, h&#228;lsa &amp; fritid</a></li>
+			
+    			<li><a href="/sortiment/kontor">Kontor</a></li>
+			
+    			<li><a href="/sortiment/telefoni-kommunikation">Telefoni &amp; kommunikation</a></li>
+			
+    			<li><a href="/sortiment/fyndvaror">Fyndvaror</a></li>
+			
+		</ul>
+
+		<div class="flyout">
+
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner"><img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/assortment-dator-kringutrustning.png"/></li>
+
+                    <li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Dator- &amp; kringutrustning</h5>
+						
+						<ul class="col1 ">
+							
+								<li>
+									<a href="/sortiment/dator-kringutrustning/black-toner">
+										Bl&#228;ck &amp; toner 
+										<span class="amount-in-category"> (780)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/datorkomponenter">
+										Datorkomponenter 
+										<span class="amount-in-category"> (298)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/datortillbehor">
+										Datortillbeh&#246;r 
+										<span class="amount-in-category"> (616)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/hogtalare-headset">
+										H&#246;gtalare, headset 
+										<span class="amount-in-category"> (166)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/kablar-adaptrar">
+										Kablar &amp; adaptrar 
+										<span class="amount-in-category"> (395)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/lagring">
+										Lagring 
+										<span class="amount-in-category"> (55)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/laptop-tillbehor">
+										Laptop-tillbeh&#246;r 
+										<span class="amount-in-category"> (117)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/minneskort">
+										Minneskort 
+										<span class="amount-in-category"> (24)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/moss-pekdon">
+										M&#246;ss &amp; pekdon 
+										<span class="amount-in-category"> (99)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/natverk">
+										N&#228;tverk 
+										<span class="amount-in-category"> (389)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/pc-gaming">
+										PC-gaming 
+										<span class="amount-in-category"> (80)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/projektor">
+										Projektor 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/raspberry-pi">
+										Raspberry Pi 
+										<span class="amount-in-category"> (22)</span>
+									</a>
+								</li>
+								
+									</ul>
+									
+									<ul class="col2">
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/tangentbord">
+										Tangentbord 
+										<span class="amount-in-category"> (64)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/tillbehor-till-surfplattor">
+										Tillbeh&#246;r till surfplattor 
+										<span class="amount-in-category"> (459)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/usb-minnen">
+										USB-minnen 
+										<span class="amount-in-category"> (17)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/dator-kringutrustning/overvakning">
+										&#214;vervakning 
+										<span class="amount-in-category"> (12)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner"><img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/assortment-ljud-bild.png"/></li>
+
+                    <li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Ljud &amp; bild</h5>
+						
+						<ul class="col1 ">
+							
+								<li>
+									<a href="/sortiment/ljud-bild/audio-video-media">
+										Audio/video-media 
+										<span class="amount-in-category"> (4)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/antenner-tillbehor">
+										Antenner &amp; tillbeh&#246;r 
+										<span class="amount-in-category"> (288)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/bil-ljud">
+										Bil-ljud 
+										<span class="amount-in-category"> (19)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/cd-dvd-blu-ray">
+										CD, DVD &amp; Blu-ray 
+										<span class="amount-in-category"> (63)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/diktafoner">
+										Diktafoner 
+										<span class="amount-in-category"> (11)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/foto-video">
+										Foto &amp; video 
+										<span class="amount-in-category"> (310)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/fm-sandare">
+										FM-s&#228;ndare 
+										<span class="amount-in-category"> (12)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/hifi-system">
+										HiFi-system 
+										<span class="amount-in-category"> (6)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/hur-funkar-det-">
+										Hur funkar det? 
+										<span class="amount-in-category"> (2)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/hogtalare">
+										H&#246;gtalare 
+										<span class="amount-in-category"> (69)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/horlurar-headset">
+										H&#246;rlurar &amp; headset 
+										<span class="amount-in-category"> (108)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/ipod-tillbehor">
+										iPod-tillbeh&#246;r 
+										<span class="amount-in-category"> (38)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/kablar-adaptrar">
+										Kablar &amp; adaptrar 
+										<span class="amount-in-category"> (441)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/kabelhantering">
+										Kabelhantering 
+										<span class="amount-in-category"> (45)</span>
+									</a>
+								</li>
+								
+									</ul>
+									
+									<ul class="col2">
+								
+								<li>
+									<a href="/sortiment/ljud-bild/kassettbandspelare">
+										Kassettbandspelare 
+										<span class="amount-in-category"> (3)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/minneskort">
+										Minneskort 
+										<span class="amount-in-category"> (24)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/mediaspelare">
+										Mediaspelare 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/musikspelare">
+										Musikspelare 
+										<span class="amount-in-category"> (23)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/projektor">
+										Projektor 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/projektordukar">
+										Projektordukar 
+										<span class="amount-in-category"> (5)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/rengoring">
+										Reng&#246;ring 
+										<span class="amount-in-category"> (15)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/pa-ljud-underhallning">
+										PA-ljud &amp; underh&#229;llning 
+										<span class="amount-in-category"> (59)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/skivspelare">
+										Skivspelare 
+										<span class="amount-in-category"> (14)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/tv-tillbehor">
+										TV-tillbeh&#246;r 
+										<span class="amount-in-category"> (370)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/tv-spel-gaming">
+										TV-spel &amp; gaming 
+										<span class="amount-in-category"> (127)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/ljud-bild/tradlos-ljud-bild">
+										Tr&#229;dl&#246;s ljud &amp; bild 
+										<span class="amount-in-category"> (20)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner"><img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/assortment-el.png"/></li>
+
+                    <li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">El</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/sortiment/el/batterier">
+										Batterier 
+										<span class="amount-in-category"> (350)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/batteriladdare">
+										Batteriladdare 
+										<span class="amount-in-category"> (131)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/belysning">
+										Belysning 
+										<span class="amount-in-category"> (421)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/biltillbehor">
+										Biltillbeh&#246;r 
+										<span class="amount-in-category"> (131)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/elinstallation">
+										Elinstallation 
+										<span class="amount-in-category"> (74)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/elektronik">
+										Elektronik 
+										<span class="amount-in-category"> (498)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/el-produkter">
+										El-produkter 
+										<span class="amount-in-category"> (403)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/esd-produkter">
+										ESD-produkter 
+										<span class="amount-in-category"> (3)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/matinstrument">
+										M&#228;tinstrument 
+										<span class="amount-in-category"> (210)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/inspektionskamera">
+										Inspektionskamera 
+										<span class="amount-in-category"> (2)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/stromforsorjning">
+										Str&#246;mf&#246;rs&#246;rjning 
+										<span class="amount-in-category"> (153)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/el/verktyg">
+										Verktyg 
+										<span class="amount-in-category"> (371)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner"><img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/assortment-hus-halsa-fritid.png"/></li>
+
+                    <li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Hus, h&#228;lsa &amp; fritid</h5>
+						
+						<ul class="col1 ">
+							
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/belysning">
+										Belysning 
+										<span class="amount-in-category"> (421)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/barn-baby">
+										Barn &amp; baby 
+										<span class="amount-in-category"> (10)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/bil-apparater-for-resan">
+										Bil-apparater, f&#246;r resan 
+										<span class="amount-in-category"> (7)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/cykeltillbehor">
+										Cykeltillbeh&#246;r 
+										<span class="amount-in-category"> (17)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/dammsugartillbehor">
+										Dammsugartillbeh&#246;r 
+										<span class="amount-in-category"> (17)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/dorrklockor">
+										D&#246;rrklockor 
+										<span class="amount-in-category"> (12)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/energidryck">
+										Energidryck 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/gps">
+										GPS 
+										<span class="amount-in-category"> (15)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/kropp-halsa">
+										Kropp &amp; h&#228;lsa 
+										<span class="amount-in-category"> (169)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/kemi-spray-lim">
+										Kemi, spray, lim 
+										<span class="amount-in-category"> (46)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/klockor-rakneverk">
+										Klockor &amp; r&#228;kneverk 
+										<span class="amount-in-category"> (40)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/kokstillbehor">
+										K&#246;kstillbeh&#246;r 
+										<span class="amount-in-category"> (70)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/larm-sakerhet-overvakning">
+										Larm, s&#228;kerhet &amp; &#246;vervakning 
+										<span class="amount-in-category"> (148)</span>
+									</a>
+								</li>
+								
+									</ul>
+									
+									<ul class="col2">
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/party-karaoke">
+										Party &amp; karaoke 
+										<span class="amount-in-category"> (19)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/passagealarm">
+										Passagealarm 
+										<span class="amount-in-category"> (7)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/skadedjurssanering">
+										Skadedjurssanering 
+										<span class="amount-in-category"> (17)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/tejp">
+										Tejp 
+										<span class="amount-in-category"> (14)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/termometrar-vaderstationer">
+										Termometrar &amp; v&#228;derstationer 
+										<span class="amount-in-category"> (101)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/ultraljudsrengoring">
+										Ultraljudsreng&#246;ring 
+										<span class="amount-in-category"> (5)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/verktyg">
+										Verktyg 
+										<span class="amount-in-category"> (371)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/vagar">
+										V&#229;gar 
+										<span class="amount-in-category"> (20)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/hus-halsa-fritid/ovrigt">
+										&#214;vrigt 
+										<span class="amount-in-category"> (63)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner"><img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/assortment-kontor.png"/></li>
+
+                    <li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Kontor</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/sortiment/kontor/black-toner">
+										Bl&#228;ck &amp; toner 
+										<span class="amount-in-category"> (780)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/diktafoner">
+										Diktafoner 
+										<span class="amount-in-category"> (11)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/dokumentforstorare">
+										Dokumentf&#246;rst&#246;rare 
+										<span class="amount-in-category"> (6)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/inbindning">
+										Inbindning 
+										<span class="amount-in-category"> (13)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/kabelhantering">
+										Kabelhantering 
+										<span class="amount-in-category"> (45)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/laminering">
+										Laminering 
+										<span class="amount-in-category"> (18)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/markning">
+										M&#228;rkning 
+										<span class="amount-in-category"> (33)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/rengoring">
+										Reng&#246;ring 
+										<span class="amount-in-category"> (8)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/papper">
+										Papper 
+										<span class="amount-in-category"> (32)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/kontor/skrivbordstillbehor">
+										Skrivbordstillbeh&#246;r 
+										<span class="amount-in-category"> (55)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner"><img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/assortment-telefoni-kommunikation.png"/></li>
+
+                    <li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Telefoni &amp; kommunikation</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/bagagesparare">
+										Bagagesp&#229;rare 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/fast-telefoni">
+										Fast telefoni 
+										<span class="amount-in-category"> (98)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/kommunikationsradio">
+										Kommunikationsradio 
+										<span class="amount-in-category"> (145)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/mobilt-bredband">
+										Mobilt bredband 
+										<span class="amount-in-category"> (78)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/mobiltelefoner">
+										Mobiltelefoner 
+										<span class="amount-in-category"> (6)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/mobiltelefon-tillbehor">
+										Mobiltelefon-tillbeh&#246;r 
+										<span class="amount-in-category"> (1196)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/tillbehor-till-surfplattor">
+										Tillbeh&#246;r till surfplattor 
+										<span class="amount-in-category"> (459)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/telefoni-kommunikation/gps-tillbehor">
+										GPS-tillbeh&#246;r 
+										<span class="amount-in-category"> (14)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner"><img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/assortment-fyndvaror.png"/></li>
+
+                    <li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Fyndvaror</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/sortiment/fyndvaror/dator-kringutrustning">
+										Dator- &amp; kringutrustning 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/fyndvaror/el-belysning">
+										El &amp; belysning 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/fyndvaror/ljud-bild">
+										Ljud &amp; bild 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/fyndvaror/telefoni-kommunikation">
+										Telefoni &amp; kommunikation 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/sortiment/fyndvaror/ovrigt">
+										&#214;vrigt 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+			
+
+		</div>
+	</div>
+
+
+    <div id="AccessoriesTabMenu" class="main-nav-tab">
+
+		<ul class="main-nav">
+			
+    			<li><a href="/tillbehor-till/mobiltelefoner">Mobiltelefoner</a></li>
+			
+    			<li><a href="/tillbehor-till/tablets-surfplattor">Tablets / surfplattor</a></li>
+			
+    			<li><a href="/tillbehor-till/skrivare">Skrivare</a></li>
+			
+    			<li><a href="/tillbehor-till/systemkameror">Systemkameror</a></li>
+			
+    			<li><a href="/tillbehor-till/kompaktkameror">Kompaktkameror</a></li>
+			
+    			<li><a href="/tillbehor-till/rakapparater">Rakapparater</a></li>
+			
+    			<li><a href="/tillbehor-till/spelkonsoler">Spelkonsoler</a></li>
+			
+		</ul>
+	
+		<div class="flyout">
+
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner">
+						<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/accessories-mobiltelefoner.png"/>
+					</li>
+					<li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Mobiltelefoner</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/apple">
+										Apple 
+										<span class="amount-in-category"> (6)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/samsung">
+										Samsung 
+										<span class="amount-in-category"> (46)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/sony">
+										Sony 
+										<span class="amount-in-category"> (24)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/htc">
+										HTC 
+										<span class="amount-in-category"> (35)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/sony-ericsson">
+										Sony Ericsson 
+										<span class="amount-in-category"> (36)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/nokia">
+										Nokia 
+										<span class="amount-in-category"> (45)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/lg">
+										LG 
+										<span class="amount-in-category"> (16)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/motorola">
+										Motorola 
+										<span class="amount-in-category"> (3)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/google">
+										Google 
+										<span class="amount-in-category"> (5)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/zte">
+										ZTE 
+										<span class="amount-in-category"> (5)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/mobiltelefoner/huawei">
+										Huawei 
+										<span class="amount-in-category"> (2)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner">
+						<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/accessories-tablets-surfplattor.png"/>
+					</li>
+					<li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Tablets / surfplattor</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/apple">
+										Apple 
+										<span class="amount-in-category"> (7)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/samsung">
+										Samsung 
+										<span class="amount-in-category"> (20)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/google">
+										Google 
+										<span class="amount-in-category"> (3)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/sony">
+										Sony 
+										<span class="amount-in-category"> (3)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/zte">
+										ZTE 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/acer">
+										Acer 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/asus">
+										Asus 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/htc">
+										HTC 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/lg">
+										LG 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/tablets-surfplattor/motorola">
+										Motorola 
+										<span class="amount-in-category"> (1)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner">
+						<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/accessories-skrivare.png"/>
+					</li>
+					<li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Skrivare</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/tillbehor-till/skrivare/brother">
+										Brother 
+										<span class="amount-in-category"> (444)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/canon">
+										Canon 
+										<span class="amount-in-category"> (712)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/dell">
+										Dell 
+										<span class="amount-in-category"> (9)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/epson">
+										Epson 
+										<span class="amount-in-category"> (272)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/hp">
+										HP 
+										<span class="amount-in-category"> (1539)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/lexmark">
+										Lexmark 
+										<span class="amount-in-category"> (381)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/oki">
+										Oki 
+										<span class="amount-in-category"> (79)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/samsung">
+										Samsung 
+										<span class="amount-in-category"> (187)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/xerox">
+										Xerox 
+										<span class="amount-in-category"> (3)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/skrivare/ovriga-tillverkare">
+										&#214;vriga tillverkare 
+										<span class="amount-in-category"> (31)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner">
+						<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/accessories-systemkameror.png"/>
+					</li>
+					<li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Systemkameror</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/tillbehor-till/systemkameror/canon">
+										Canon 
+										<span class="amount-in-category"> (20)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/systemkameror/nikon">
+										Nikon 
+										<span class="amount-in-category"> (21)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/systemkameror/olympus">
+										Olympus 
+										<span class="amount-in-category"> (7)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/systemkameror/panasonic">
+										Panasonic 
+										<span class="amount-in-category"> (8)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/systemkameror/pentax">
+										Pentax 
+										<span class="amount-in-category"> (5)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/systemkameror/samsung">
+										Samsung 
+										<span class="amount-in-category"> (5)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/systemkameror/sony">
+										Sony 
+										<span class="amount-in-category"> (10)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner">
+						<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/accessories-kompaktkameror.png"/>
+					</li>
+					<li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Kompaktkameror</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/canon">
+										Canon 
+										<span class="amount-in-category"> (49)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/casio">
+										Casio 
+										<span class="amount-in-category"> (26)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/fuji">
+										Fuji 
+										<span class="amount-in-category"> (23)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/nikon">
+										Nikon 
+										<span class="amount-in-category"> (46)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/olympus">
+										Olympus 
+										<span class="amount-in-category"> (24)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/panasonic">
+										Panasonic 
+										<span class="amount-in-category"> (30)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/pentax">
+										Pentax 
+										<span class="amount-in-category"> (8)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/samsung">
+										Samsung 
+										<span class="amount-in-category"> (28)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/kompaktkameror/sony">
+										Sony 
+										<span class="amount-in-category"> (44)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner">
+						<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/accessories-rakapparater.png"/>
+					</li>
+					<li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Rakapparater</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/tillbehor-till/rakapparater/braun">
+										Braun 
+										<span class="amount-in-category"> (101)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/rakapparater/philips">
+										Philips 
+										<span class="amount-in-category"> (209)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+				<ul class="sub-menu">
+					<li class="sub-menu-item-banner">
+						<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/accessories-spelkonsoler.png"/>
+					</li>
+					<li class="sub-menu-items">
+						<h5 class="sub-menu-item-header">Spelkonsoler</h5>
+						
+						<ul class="col1 no-border">
+							
+								<li>
+									<a href="/tillbehor-till/spelkonsoler/nintendo">
+										Nintendo 
+										<span class="amount-in-category"> (7)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/spelkonsoler/microsoft">
+										Microsoft 
+										<span class="amount-in-category"> (3)</span>
+									</a>
+								</li>
+								
+								<li>
+									<a href="/tillbehor-till/spelkonsoler/sony">
+										Sony 
+										<span class="amount-in-category"> (6)</span>
+									</a>
+								</li>
+								
+						</ul>
+					</li>
+				</ul>
+			
+			
+
+		</div>
+	</div>
+	<div id="knowledgeTabMenu" class="main-nav-tab">
+		<div class="main-nav imageNav">
+			<a href="/fraga-kjell" >
+				<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/knowledge-banner.png"/>
+			</a>
+		</div>
+	</div>
+
+	<div id="StoresTabMenu" class="main-nav-tab">
+		<div class="main-nav imageNav">
+			<a href="/butiker" >
+				<img alt="bannerimage" src="/resources/sv-se/megaMenuBanners/stores-banner.png"/>
+			</a>	
+		</div>
+	</div>
+
+
+    <div class="miniShoppingCart cartContent">
+        
+        
+        <a href="/varukorg" title="Din varukorg">
+			<div class="iconAndTotalItems">	
+				<i class="icon-cart"></i>
+				<span id="TotalItems">
+					9 st
+					
+				</span>
+            </div>
+			<span class="miniCartText hideInMobileToSmallTablet">Din varukorg</span>
+
+			
+        </a>
+
+        <span class="totalPriceText">219:-</span>
+        <div class="cartExtended">
+            <ul>
+                
+                    <li>
+                        <div class="prodImgWrap">
+                            <div class="prodImg">
+                                <a title="KEMO S009 - Switchar" href="/sortiment/el/elektronik/komponentsatser/kemo-s009-switchar-p89309">
+                                    
+    <img src="/image/Product_130400496978982884/list/1" alt=""  />
+
+                                </a>
+                            </div>
+                        </div>
+                        <div class="mcDescription">
+                            <h2>
+                                <a href="/sortiment/el/elektronik/komponentsatser/kemo-s009-switchar-p89309">KEMO S009 - Switchar</a>
+                            </h2>
+                            <p class="subTitle">20 st omkoppl, och str&#246;mbrytar</p>
+                            <p class="artnbr">Art nr: 89309 </p>
+                            
+                        </div>
+                        <div class="mcQuantity">
+                            1 st
+                        </div>
+                        <div class="mcPriceSt">
+                            <span class="stdPrice"><!--1 st-->
+                                
+                                    à 49:90
+                                
+                            </span>
+                            
+                        </div>
+                        <div class="mcPriceTot">
+                            49:90
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="prodImgWrap">
+                            <div class="prodImg">
+                                <a title="Lysdiod, 5mm, vit" href="/sortiment/el/elektronik/optokomponenter/lysdioder/lysdiod-5mm-vit-p90582">
+                                    
+    <img src="/image/Product_130400509633578566/list/1" alt=""  />
+
+                                </a>
+                            </div>
+                        </div>
+                        <div class="mcDescription">
+                            <h2>
+                                <a href="/sortiment/el/elektronik/optokomponenter/lysdioder/lysdiod-5mm-vit-p90582">Lysdiod, 5mm, vit</a>
+                            </h2>
+                            <p class="subTitle">15000 mcd, 17&#176;, klar</p>
+                            <p class="artnbr">Art nr: 90582 </p>
+                            
+                        </div>
+                        <div class="mcQuantity">
+                            5 st
+                        </div>
+                        <div class="mcPriceSt">
+                            <span class="stdPrice"><!--5 st-->
+                                
+                                    à 1:-
+                                
+                            </span>
+                            
+                                <a title="Mängdrabatt" href="/sortiment/el/elektronik/optokomponenter/lysdioder/lysdiod-5mm-vit-p90582"></a>
+                            
+                        </div>
+                        <div class="mcPriceTot">
+                            5:-
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="prodImgWrap">
+                            <div class="prodImg">
+                                <a title="Miniatyromkopplare 2-polig, till-till" href="/sortiment/el/elektronik/elektromekanik/strombrytare/vippomkopplare/miniatyromkopplare-2-polig-till-till-p36017">
+                                    
+    <img src="/image/Product_130399712253652340/list/1" alt=""  />
+
+                                </a>
+                            </div>
+                        </div>
+                        <div class="mcDescription">
+                            <h2>
+                                <a href="/sortiment/el/elektronik/elektromekanik/strombrytare/vippomkopplare/miniatyromkopplare-2-polig-till-till-p36017">Miniatyromkopplare 2-polig, till-till</a>
+                            </h2>
+                            <p class="subTitle">125 VAC, 5 A / 28 VDC, 5 A</p>
+                            <p class="artnbr">Art nr: 36017 </p>
+                            
+                        </div>
+                        <div class="mcQuantity">
+                            1 st
+                        </div>
+                        <div class="mcPriceSt">
+                            <span class="stdPrice"><!--1 st-->
+                                
+                                    à 35:-
+                                
+                            </span>
+                            
+                                <a title="Mängdrabatt" href="/sortiment/el/elektronik/elektromekanik/strombrytare/vippomkopplare/miniatyromkopplare-2-polig-till-till-p36017"></a>
+                            
+                        </div>
+                        <div class="mcPriceTot">
+                            35:-
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="prodImgWrap">
+                            <div class="prodImg">
+                                <a title="Batterihållare 4xR03 (AAA)" href="/sortiment/el/batterier/batterihallare/batterihallare-4xr03-(aaa)-p39743">
+                                    
+    <img src="/image/Product_130399947739780218/list/1" alt=""  />
+
+                                </a>
+                            </div>
+                        </div>
+                        <div class="mcDescription">
+                            <h2>
+                                <a href="/sortiment/el/batterier/batterihallare/batterihallare-4xr03-(aaa)-p39743">Batterihållare 4xR03 (AAA)</a>
+                            </h2>
+                            <p class="subTitle">L&#246;danslutning</p>
+                            <p class="artnbr">Art nr: 39743 </p>
+                            
+                        </div>
+                        <div class="mcQuantity">
+                            1 st
+                        </div>
+                        <div class="mcPriceSt">
+                            <span class="stdPrice"><!--1 st-->
+                                
+                                    à 29:90
+                                
+                            </span>
+                            
+                        </div>
+                        <div class="mcPriceTot">
+                            29:90
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="prodImgWrap">
+                            <div class="prodImg">
+                                <a title="Insektsdödare 4 W" href="/sortiment/hus-halsa-fritid/skadedjurssanering/insektsdodare/insektsdodare-4-w-p50147">
+                                    
+    <img src="/image/Product_130400140764977931/list/1" alt=""  />
+
+                                </a>
+                            </div>
+                        </div>
+                        <div class="mcDescription">
+                            <h2>
+                                <a href="/sortiment/hus-halsa-fritid/skadedjurssanering/insektsdodare/insektsdodare-4-w-p50147">Insektsdödare 4 W</a>
+                            </h2>
+                            <p class="subTitle">Med UV-lysr&#246;r</p>
+                            <p class="artnbr">Art nr: 50147 </p>
+                            
+                        </div>
+                        <div class="mcQuantity">
+                            1 st
+                        </div>
+                        <div class="mcPriceSt">
+                            <span class="stdPrice"><!--1 st-->
+                                
+                                    à 99:-
+                                
+                            </span>
+                            
+                        </div>
+                        <div class="mcPriceTot">
+                            99:-
+                        </div>
+                    </li>
+                
+            </ul>
+
+			<div class="mcFooter">
+				
+
+
+<div id="VatSettings" class="mcVatSettings">
+
+	<span>Priser</span>
+
+	<form action="/.mvc/ClientInfo/SetVatSettings" method="post">
+		<input id="VatTrue" name="withVat" type="radio" value="True" checked='checked' />
+		<label for="VatTrue" id="VatTrue_Label">Inkl. moms</label>
+    
+		<input id="VatFalse" name="withVat" type="radio" value="False"  />
+		<label for="VatFalse" id="VatFalse_Label">Exkl. moms</label>
+    
+		<button type="submit">Ändra</button>
+	</form>
+
+</div>
+
+				<div class="mcCheckoutAndSum">
+					<dl class="mcSum">
+					
+						<dt class="mcTotSum">Totalt exkl. frakt:</dt>
+						<dd class="mcTotSum">219:-</dd>
+					</dl>
+
+					<div class="mcCheckOut">
+						<a href="/varukorg" title="Ändra i varukorgen" class=" generalBtn greenButton"> Ändra &raquo;</a>
+						<a href="/varukorg" title="Till kassan" class="generalBtn orangeButton"> Till kassan &raquo;</a>
+					</div>
+				</div>
+			</div>
+        </div>
+    </div>
+
+
+            </nav>
+
+        </div>
+
+
+		<div id="MasterContent" class="">
+			
+				<div id="BreadCrumbs" class="clearfix">
+					
+
+<span class="title">Du är här: </span>
+<ul class="breadcrumb">
+    
+    
+                    <li>
+                        <a class="" href="/">Hem</a>
+                         
+                    </li>
+                
+                    <li>
+                        
+				            <span style="padding-left: 5px; padding-right: 3px;">></span>
+			            <a class="" href="/sortiment">Sortiment</a>
+                         
+                    </li>
+                
+                    <li>
+                        
+				            <span style="padding-left: 5px; padding-right: 3px;">></span>
+			            <a class="" href="/sortiment/dator-kringutrustning">Dator- &amp; kringutrustning</a>
+                         
+                    </li>
+                
+                    <li>
+                        
+				            <span style="padding-left: 5px; padding-right: 3px;">></span>
+			            <a class="" href="/sortiment/dator-kringutrustning/datorkomponenter">Datorkomponenter</a>
+                         
+                    </li>
+                
+                    <li>
+                        
+				            <span style="padding-left: 5px; padding-right: 3px;">></span>
+			            <a class="" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning">Kylning</a>
+                         
+                    </li>
+                
+                    <li>
+                        
+				            <span style="padding-left: 5px; padding-right: 3px;">></span>
+			            <a class="active" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta">Kylpasta</a>
+                         
+                    </li>
+                
+</ul>
+				</div>
+            
+         
+        
+            <div class="outerContainer clearfix">
+
+                
+
+                
+	<div class="productPage">
+		
+
+	<input type="hidden" id="HiddenHQStock" value="201" />
+	<input type="hidden" id="HiddenStoreStock" value="10" />
+
+	
+	<div class="hidden">
+		
+
+	
+	<div id="OutOfStockHQAndStore" class="outOfStock">
+		<h1 class="blueHeader">Din vara har lagts i varukorgen</h1>
+		<p>Produkten du har lagt i varukorgen är tillfälligt slut på webbshoppen. Vid lagd beställning kontaktar vi dig med mer information.</p>
+		<div class="outOfStockFooter clearfix">
+			<a href="" title="Fortsätt handla" class="continueShopping generalBtn greenButton" onclick="$.fancybox.close(); return false;">&laquo; Fortsätt handla</a>
+			<a href="/varukorg" title="Till kassan" class="toCheckout generalBtn greenButton">Till kassan &raquo;</a>
+		</div>
+	</div>
+	
+
+
+	
+	<div id="OutOfStockHQ" class="outOfStock">
+		<h1 class="blueHeader">Din vara har lagts i varukorgen</h1>
+		<p>Produkten du har lagt i varukorgen är tillfälligt slut på webbshoppen. Vid lagd beställning kontaktar vi dig med mer information.</p>
+		<p class="outOfStockStore">
+			Önskar du varan snabbare?<br />
+			Produkten finns i lager i din butik (<a href="/butiker/sundsvall">Sundsvall Birsta</a>).
+		</p>
+		<div class="outOfStockFooter clearfix">
+			<a href="" title="Fortsätt handla" class="continueShopping generalBtn greenButton" onclick="$.fancybox.close(); return false;">&laquo; Fortsätt handla</a>
+			<a href="/varukorg" title="Till kassan" class="toCheckout generalBtn greenButton">Till kassan &raquo;</a>
+		</div>
+	</div>
+	
+	</div>
+	
+
+
+	<div id="" class="productPresentation panel">
+
+		<div class="productImage">
+			<h1 class="hideInDesktopToWide">Arctic Silver 5</h1>
+			<h2 class="hideInDesktopToWide">Inneh&#229;ller: 3,5 g</h2>
+			<div class="imageContainer">
+				<div class="special-image">
+					
+				</div>
+				
+		<a class=" fancybox.image fancybox" rel="gallery1" href="/image/Product_130399711315545015/full/1"> 
+			
+    <img src="/image/Product_130399711315545015/product/1/arctic-silver-5" alt="Arctic Silver 5"  />
+
+		</a>
+	
+			</div>
+		</div>
+
+		<div class="productInformation">
+
+			
+
+            <div class="info-container">
+				<h1 class="hideInMobileToTablet">Arctic Silver 5</h1>
+				<h2 class="hideInMobileToTablet">Inneh&#229;ller: 3,5 g</h2>
+
+				<p>Extremt effektiv kylpasta tillverkad med silverpartiklar av tre olika "mikroniserade" storlekar för att maximera kontakten mellan ytorna.</p>
+
+				<ul class="uspList">
+					 
+						<li>99,9 % Rent Silver</li>
+					 
+						<li>V&#228;rmeavledningsf&#246;rm&#229;ga: 7,5 W/mK.</li>
+					 
+						<li>Temperatur: -50 till +130&#176;C</li>
+					
+				</ul>
+
+				
+					<p class="artNbr">Modell nr: Silver 5 Compound</p>
+				
+
+				<p class="artNbr">Art nr: 36009</p>
+			
+				
+					<a class="moreInfo" href="#ProductDetailedInformation">Mer info</a>
+				
+			</div>
+
+			
+
+
+	<div class="priceAndBuy panel">
+
+		
+			<div class="price">
+				<span class="bestPrice">99:90</span>
+				
+
+			</div>
+		
+			<div class="buy">
+
+				<form method="post" action="/varukorg/lagg-till?back=%2fsortiment%2fdator-kringutrustning%2fdatorkomponenter%2fkylning%2fkylpasta%2farctic-silver-5-p36009">
+					<input type="hidden" name="Model.productId" value="130399711315545015" />
+					<input  type="text" class="digitsOnly productQuantityInput" name="Model.Count" value="1" maxlength="4" />
+					<button id="BuyBtn" class="grandBtn orangeButton" type="submit">Köp</button>
+					<label class="error" for="Model_Count" generated="true"></label>
+				</form>
+				
+				<!-- Shoppinglists -->
+				<div class="addtoShoppingList" data-href="/Inkopslistor/Shoppinglists?productId=130399711315545015">
+					<i class="icon-plus-squared"></i>Lägg till i inköpslista
+					<div id="ShoppingListAddDialog">
+						<div class="arrow"></div>
+					</div>
+				</div>
+	
+
+				
+			</div>
+		
+
+
+	<div class="productShare clearfix">
+		<!-- AddThis Button BEGIN -->
+		<div class="addthis_toolbox addthis_default_style ">
+		
+			<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		
+		<a tw:via="kjelloco" tw:text="Kolla in" class="addthis_button_tweet"></a>
+		<a class="addthis_counter addthis_pill_style"></a>
+		</div>
+		<!-- AddThis Button END -->
+	</div>
+	</div>
+	    
+			
+		</div>
+			
+		
+
+	<div id="StockStatus" class="stockStatusPresentation">
+		
+		<h3>Lagerstatus för</h3>
+
+		<div class="stores">
+			<div class="store webshop clearfix">
+				
+				<h4>Webbshoppen:</h4>
+				<span class="amount  clickTooltip" data-title="Finns i lager ">I lager</span>
+			</div>
+			
+			<h4>Din butik:</h4>
+
+			<div class="store">
+				
+					<a href="/butiker/sundsvall">Sundsvall Birsta</a>
+					<span class="amount clickTooltip" data-title="Finns i lager ">I lager</span>
+				
+			</div>
+
+			
+				<h5>Närliggande butiker:</h5>
+
+				
+					<div class="store">
+						<a href="/butiker/ornskoldsvik">Örnsköldsvik</a>
+						<span class="amount  clickTooltip" data-title="Tillfälligt slut. ">Ej i lager</span>
+					</div>
+				
+		</div>
+
+		<div class="changeStoreOptions">
+			
+				<div class="">(<a class="changeStore" >Byt butik</a>)</div>
+			
+			<div style="display:none;" class="stockDropDowns">
+				
+
+
+<div class="dropDownStock">
+    <select class="StoreDropDown" autocomplete="off">
+        
+            <option value="Alingsås"  data-store-id="66">
+				Alingsås
+						
+			</option>
+			
+            <option value="Borlänge Kupolen"  data-store-id="45">
+				Borlänge Kupolen
+						
+			</option>
+			
+            <option value="Borås City"  data-store-id="80">
+				Borås - Borås City
+						
+			</option>
+			
+            <option value="Borås Knalleland"  data-store-id="09">
+				Borås - Borås Knalleland
+						
+			</option>
+			
+            <option value="Eskilstuna Tuna Park"  data-store-id="35">
+				Eskilstuna Tuna Park
+						
+			</option>
+			
+            <option value="Falun"  data-store-id="63">
+				Falun
+						
+			</option>
+			
+            <option value="Gävle Valbo"  data-store-id="19">
+				Gävle Valbo
+						
+			</option>
+			
+            <option value="Backaplan"  data-store-id="71">
+				Göteborg - Backaplan
+						
+			</option>
+			
+            <option value="Bäckebol"  data-store-id="65">
+				Göteborg - Bäckebol
+						
+			</option>
+			
+            <option value="Frölunda Torg"  data-store-id="51">
+				Göteborg - Frölunda Torg
+						
+			</option>
+			
+            <option value="Kungsgatan 27"  data-store-id="69">
+				Göteborg - Kungsgatan 27
+						
+			</option>
+			
+            <option value="Nordstan"  data-store-id="38">
+				Göteborg - Nordstan
+						
+			</option>
+			
+            <option value="Partille Allum"  data-store-id="32">
+				Göteborg - Partille Allum
+						
+			</option>
+			
+            <option value="Halmstad City"  data-store-id="36">
+				Halmstad City
+						
+			</option>
+			
+            <option value="Helsingborg City"  data-store-id="04">
+				Helsingborg - Helsingborg City
+						
+			</option>
+			
+            <option value="Väla Centrum"  data-store-id="10">
+				Helsingborg - Väla Centrum
+						
+			</option>
+			
+            <option value="A6 Center"  data-store-id="77">
+				Jönköping - A6 Center
+						
+			</option>
+			
+            <option value="Jönköping City"  data-store-id="07">
+				Jönköping - Jönköping City
+						
+			</option>
+			
+            <option value="Kalmar Baronen"  data-store-id="33">
+				Kalmar Baronen
+						
+			</option>
+			
+            <option value="Karlskrona"  data-store-id="55">
+				Karlskrona
+						
+			</option>
+			
+            <option value="Karlstad"  data-store-id="18">
+				Karlstad
+						
+			</option>
+			
+            <option value="Kristianstad"  data-store-id="05">
+				Kristianstad
+						
+			</option>
+			
+            <option value="Kungsmässan"  data-store-id="62">
+				Kungsmässan
+						
+			</option>
+			
+            <option value="Linköping Gyllenhuset"  data-store-id="46">
+				Linköping - Linköping Gyllenhuset
+						
+			</option>
+			
+            <option value="Linköping Tornby"  data-store-id="48">
+				Linköping - Linköping Tornby
+						
+			</option>
+			
+            <option value="Luleå"  data-store-id="42">
+				Luleå
+						
+			</option>
+			
+            <option value="Lund City"  data-store-id="03">
+				Lund - Lund City
+						
+			</option>
+			
+            <option value="Nova Lund"  data-store-id="40">
+				Lund - Nova Lund
+						
+			</option>
+			
+            <option value="CenterSyd"  data-store-id="08">
+				CenterSyd
+						
+			</option>
+			
+            <option value="Burlöv Center"  data-store-id="15">
+				Malmö - Burlöv Center
+						
+			</option>
+			
+            <option value="Emporia"  data-store-id="67">
+				Malmö - Emporia
+						
+			</option>
+			
+            <option value="Malmö Södergatan"  data-store-id="44">
+				Malmö - Malmö Södergatan
+						
+			</option>
+			
+            <option value="Mobilia"  data-store-id="43">
+				Malmö - Mobilia
+						
+			</option>
+			
+            <option value="Triangeln"  data-store-id="02">
+				Malmö - Triangeln
+						
+			</option>
+			
+            <option value="Motala"  data-store-id="70">
+				Motala
+						
+			</option>
+			
+            <option value="Galleria Domino"  data-store-id="16">
+				Norrköping - Galleria Domino
+						
+			</option>
+			
+            <option value="Hageby Centrum"  data-store-id="47">
+				Norrköping - Hageby Centrum
+						
+			</option>
+			
+            <option value="Nyköping"  data-store-id="75">
+				Nyköping
+						
+			</option>
+			
+            <option value="Skellefteå"  data-store-id="78">
+				Skellefteå
+						
+			</option>
+			
+            <option value="Skövde"  data-store-id="74">
+				Skövde
+						
+			</option>
+			
+            <option value="Farsta Centrum"  data-store-id="17">
+				Stockholm - Farsta Centrum
+						
+			</option>
+			
+            <option value="Forum Nacka"  data-store-id="11">
+				Stockholm - Forum Nacka
+						
+			</option>
+			
+            <option value="Fältöversten"  data-store-id="59">
+				Stockholm - Fältöversten
+						
+			</option>
+			
+            <option value="Hamngatan"  data-store-id="64">
+				Stockholm - Hamngatan
+						
+			</option>
+			
+            <option value="Haninge Centrum"  data-store-id="22">
+				Stockholm - Haninge Centrum
+						
+			</option>
+			
+            <option value="Kista Galleria"  data-store-id="14">
+				Stockholm - Kista Galleria
+						
+			</option>
+			
+            <option value="Kungsgatan"  data-store-id="21">
+				Stockholm - Kungsgatan
+						
+			</option>
+			
+            <option value="Kungsholmen"  data-store-id="37">
+				Stockholm - Kungsholmen
+						
+			</option>
+			
+            <option value="Liljeholmstorget"  data-store-id="50">
+				Stockholm - Liljeholmstorget
+						
+			</option>
+			
+            <option value="Ringvägen"  data-store-id="79">
+				Stockholm - Ringvägen
+						
+			</option>
+			
+            <option value="Skärholmen SKHLM"  data-store-id="29">
+				Stockholm - Skärholmen SKHLM
+						
+			</option>
+			
+            <option value="Sollentuna"  data-store-id="56">
+				Stockholm - Sollentuna
+						
+			</option>
+			
+            <option value="Solna Centrum"  data-store-id="12">
+				Stockholm - Solna Centrum
+						
+			</option>
+			
+            <option value="Södermalm Skrapan"  data-store-id="27">
+				Stockholm - Södermalm Skrapan
+						
+			</option>
+			
+            <option value="Tyresö Centrum"  data-store-id="76">
+				Stockholm - Tyresö Centrum
+						
+			</option>
+			
+            <option value="Täby Centrum"  data-store-id="31">
+				Stockholm - Täby Centrum
+						
+			</option>
+			
+            <option value="Vällingby"  data-store-id="25">
+				Stockholm - Vällingby
+						
+			</option>
+			
+            <option value="Väsby Centrum"  data-store-id="23">
+				Stockholm - Väsby Centrum
+						
+			</option>
+			
+            <option value="Åkersberga"  data-store-id="57">
+				Stockholm - Åkersberga
+						
+			</option>
+			
+            <option value="Nordby"  data-store-id="41">
+				Nordby
+						
+			</option>
+			
+            <option value="Sundsvall Birsta" selected=selected data-store-id="24">
+				Sundsvall Birsta
+						
+			</option>
+			
+            <option value="Södertälje Kringlan"  data-store-id="53">
+				Södertälje Kringlan
+						
+			</option>
+			
+            <option value="Trollhättan Etage"  data-store-id="52">
+				Trollhättan Etage
+						
+			</option>
+			
+            <option value="Torp Köpcentrum"  data-store-id="28">
+				Torp Köpcentrum
+						
+			</option>
+			
+            <option value="Umeå"  data-store-id="20">
+				Umeå
+						
+			</option>
+			
+            <option value="Uppsala City"  data-store-id="30">
+				Uppsala - Uppsala City
+						
+			</option>
+			
+            <option value="Uppsala Gränby"  data-store-id="54">
+				Uppsala - Uppsala Gränby
+						
+			</option>
+			
+            <option value="Varberg"  data-store-id="72">
+				Varberg
+						
+			</option>
+			
+            <option value="Visby"  data-store-id="73">
+				Visby
+						
+			</option>
+			
+            <option value="Erikslund"  data-store-id="58">
+				Västerås - Erikslund
+						
+			</option>
+			
+            <option value="Västerås City"  data-store-id="26">
+				Västerås - Västerås City
+						
+			</option>
+			
+            <option value="Växjö Tegnér"  data-store-id="34">
+				Växjö Tegnér
+						
+			</option>
+			
+            <option value="Ystad"  data-store-id="61">
+				Ystad
+						
+			</option>
+			
+            <option value="Örebro City"  data-store-id="60">
+				Örebro - Örebro City
+						
+			</option>
+			
+            <option value="Örebro Marieberg"  data-store-id="39">
+				Örebro - Örebro Marieberg
+						
+			</option>
+			
+            <option value="Örnsköldsvik"  data-store-id="68">
+				Örnsköldsvik
+						
+			</option>
+			
+            <option value="Östersund"  data-store-id="49">
+				Östersund
+						
+			</option>
+			
+    </select>
+</div>
+
+
+
+
+<select class="StoreDropDownHidden hidden">
+    
+        <option value="Alingsås" data-store-id="66" data-city-name="Alingsås">Alingsås</option>
+    
+        <option value="Borlänge Kupolen" data-store-id="45" data-city-name="Borlänge">Borlänge Kupolen</option>
+    
+        <option value="Borås City" data-store-id="80" data-city-name="Borås">Borås City</option>
+    
+        <option value="Borås Knalleland" data-store-id="09" data-city-name="Borås">Borås Knalleland</option>
+    
+        <option value="Eskilstuna Tuna Park" data-store-id="35" data-city-name="Eskilstuna">Eskilstuna Tuna Park</option>
+    
+        <option value="Falun" data-store-id="63" data-city-name="Falun">Falun</option>
+    
+        <option value="Gävle Valbo" data-store-id="19" data-city-name="Gävle">Gävle Valbo</option>
+    
+        <option value="Backaplan" data-store-id="71" data-city-name="Göteborg">Backaplan</option>
+    
+        <option value="Bäckebol" data-store-id="65" data-city-name="Göteborg">Bäckebol</option>
+    
+        <option value="Frölunda Torg" data-store-id="51" data-city-name="Göteborg">Frölunda Torg</option>
+    
+        <option value="Kungsgatan 27" data-store-id="69" data-city-name="Göteborg">Kungsgatan 27</option>
+    
+        <option value="Nordstan" data-store-id="38" data-city-name="Göteborg">Nordstan</option>
+    
+        <option value="Partille Allum" data-store-id="32" data-city-name="Göteborg">Partille Allum</option>
+    
+        <option value="Halmstad City" data-store-id="36" data-city-name="Halmstad">Halmstad City</option>
+    
+        <option value="Helsingborg City" data-store-id="04" data-city-name="Helsingborg">Helsingborg City</option>
+    
+        <option value="Väla Centrum" data-store-id="10" data-city-name="Helsingborg">Väla Centrum</option>
+    
+        <option value="A6 Center" data-store-id="77" data-city-name="Jönköping">A6 Center</option>
+    
+        <option value="Jönköping City" data-store-id="07" data-city-name="Jönköping">Jönköping City</option>
+    
+        <option value="Kalmar Baronen" data-store-id="33" data-city-name="Kalmar">Kalmar Baronen</option>
+    
+        <option value="Karlskrona" data-store-id="55" data-city-name="Karlskrona">Karlskrona</option>
+    
+        <option value="Karlstad" data-store-id="18" data-city-name="Karlstad">Karlstad</option>
+    
+        <option value="Kristianstad" data-store-id="05" data-city-name="Kristanstad">Kristianstad</option>
+    
+        <option value="Kungsmässan" data-store-id="62" data-city-name="Kungsbacka">Kungsmässan</option>
+    
+        <option value="Linköping Gyllenhuset" data-store-id="46" data-city-name="Linköping">Linköping Gyllenhuset</option>
+    
+        <option value="Linköping Tornby" data-store-id="48" data-city-name="Linköping">Linköping Tornby</option>
+    
+        <option value="Luleå" data-store-id="42" data-city-name="Luleå">Luleå</option>
+    
+        <option value="Lund City" data-store-id="03" data-city-name="Lund">Lund City</option>
+    
+        <option value="Nova Lund" data-store-id="40" data-city-name="Lund">Nova Lund</option>
+    
+        <option value="CenterSyd" data-store-id="08" data-city-name="Löddeköpinge">CenterSyd</option>
+    
+        <option value="Burlöv Center" data-store-id="15" data-city-name="Malmö">Burlöv Center</option>
+    
+        <option value="Emporia" data-store-id="67" data-city-name="Malmö">Emporia</option>
+    
+        <option value="Malmö Södergatan" data-store-id="44" data-city-name="Malmö">Malmö Södergatan</option>
+    
+        <option value="Mobilia" data-store-id="43" data-city-name="Malmö">Mobilia</option>
+    
+        <option value="Triangeln" data-store-id="02" data-city-name="Malmö">Triangeln</option>
+    
+        <option value="Motala" data-store-id="70" data-city-name="Motala">Motala</option>
+    
+        <option value="Galleria Domino" data-store-id="16" data-city-name="Norrköping">Galleria Domino</option>
+    
+        <option value="Hageby Centrum" data-store-id="47" data-city-name="Norrköping">Hageby Centrum</option>
+    
+        <option value="Nyköping" data-store-id="75" data-city-name="Nyköping">Nyköping</option>
+    
+        <option value="Skellefteå" data-store-id="78" data-city-name="Skellefteå">Skellefteå</option>
+    
+        <option value="Skövde" data-store-id="74" data-city-name="Skövde">Skövde</option>
+    
+        <option value="Farsta Centrum" data-store-id="17" data-city-name="Stockholm">Farsta Centrum</option>
+    
+        <option value="Forum Nacka" data-store-id="11" data-city-name="Stockholm">Forum Nacka</option>
+    
+        <option value="Fältöversten" data-store-id="59" data-city-name="Stockholm">Fältöversten</option>
+    
+        <option value="Hamngatan" data-store-id="64" data-city-name="Stockholm">Hamngatan</option>
+    
+        <option value="Haninge Centrum" data-store-id="22" data-city-name="Stockholm">Haninge Centrum</option>
+    
+        <option value="Kista Galleria" data-store-id="14" data-city-name="Stockholm">Kista Galleria</option>
+    
+        <option value="Kungsgatan" data-store-id="21" data-city-name="Stockholm">Kungsgatan</option>
+    
+        <option value="Kungsholmen" data-store-id="37" data-city-name="Stockholm">Kungsholmen</option>
+    
+        <option value="Liljeholmstorget" data-store-id="50" data-city-name="Stockholm">Liljeholmstorget</option>
+    
+        <option value="Ringvägen" data-store-id="79" data-city-name="Stockholm">Ringvägen</option>
+    
+        <option value="Skärholmen SKHLM" data-store-id="29" data-city-name="Stockholm">Skärholmen SKHLM</option>
+    
+        <option value="Sollentuna" data-store-id="56" data-city-name="Stockholm">Sollentuna</option>
+    
+        <option value="Solna Centrum" data-store-id="12" data-city-name="Stockholm">Solna Centrum</option>
+    
+        <option value="Södermalm Skrapan" data-store-id="27" data-city-name="Stockholm">Södermalm Skrapan</option>
+    
+        <option value="Tyresö Centrum" data-store-id="76" data-city-name="Stockholm">Tyresö Centrum</option>
+    
+        <option value="Täby Centrum" data-store-id="31" data-city-name="Stockholm">Täby Centrum</option>
+    
+        <option value="Vällingby" data-store-id="25" data-city-name="Stockholm">Vällingby</option>
+    
+        <option value="Väsby Centrum" data-store-id="23" data-city-name="Stockholm">Väsby Centrum</option>
+    
+        <option value="Åkersberga" data-store-id="57" data-city-name="Stockholm">Åkersberga</option>
+    
+        <option value="Nordby" data-store-id="41" data-city-name="Strömstad">Nordby</option>
+    
+        <option value="Sundsvall Birsta" data-store-id="24" data-city-name="Sundsvall">Sundsvall Birsta</option>
+    
+        <option value="Södertälje Kringlan" data-store-id="53" data-city-name="Södertälje">Södertälje Kringlan</option>
+    
+        <option value="Trollhättan Etage" data-store-id="52" data-city-name="Trollhättan">Trollhättan Etage</option>
+    
+        <option value="Torp Köpcentrum" data-store-id="28" data-city-name="Uddevalla">Torp Köpcentrum</option>
+    
+        <option value="Umeå" data-store-id="20" data-city-name="Umeå">Umeå</option>
+    
+        <option value="Uppsala City" data-store-id="30" data-city-name="Uppsala">Uppsala City</option>
+    
+        <option value="Uppsala Gränby" data-store-id="54" data-city-name="Uppsala">Uppsala Gränby</option>
+    
+        <option value="Varberg" data-store-id="72" data-city-name="Varberg">Varberg</option>
+    
+        <option value="Visby" data-store-id="73" data-city-name="Visby">Visby</option>
+    
+        <option value="Erikslund" data-store-id="58" data-city-name="Västerås">Erikslund</option>
+    
+        <option value="Västerås City" data-store-id="26" data-city-name="Västerås">Västerås City</option>
+    
+        <option value="Växjö Tegnér" data-store-id="34" data-city-name="Växjö">Växjö Tegnér</option>
+    
+        <option value="Ystad" data-store-id="61" data-city-name="Ystad">Ystad</option>
+    
+        <option value="Örebro City" data-store-id="60" data-city-name="Örebro">Örebro City</option>
+    
+        <option value="Örebro Marieberg" data-store-id="39" data-city-name="Örebro">Örebro Marieberg</option>
+    
+        <option value="Örnsköldsvik" data-store-id="68" data-city-name="Örnsköldsvik">Örnsköldsvik</option>
+    
+        <option value="Östersund" data-store-id="49" data-city-name="Östersund">Östersund</option>
+    
+</select>
+
+
+			</div>
+
+			<p class="stockUpdateText">Uppdateras var 15:e minut. Reservation mot slutförsäljning.</p>
+		</div>
+
+	</div>
+
+	</div>
+
+
+
+	
+		<div class="productRelations panel">
+
+		
+			<div class="panel width-50 left">
+				<h3> Rekommenderade tillbehör </h3>
+                
+
+    <ul class="clearfix">
+        
+        <li class="clickableArea" title="ArctiClean kit 2x30 ml - för borttagning av kylpasta" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Rekommenderade tillbehör', '36015 - ArctiClean kit 2x30 ml']);">
+            <div class="product-thumb">
+                <a title="ArctiClean kit 2x30 ml" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/arcticlean-kit-2x30-ml-p36015">
+                    
+    <img src="/image/Product_130399712019169160/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/arcticlean-kit-2x30-ml-p36015" title="ArctiClean kit 2x30 ml - för borttagning av kylpasta">ArctiClean kit 2x30 ml</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">99:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+    </ul>
+		
+			</div>
+		
+			<div class="panel width-50 right">
+				<h3> Andra köpte även</h3>
+                
+
+    <ul class="clearfix">
+        
+        <li class="clickableArea" title="Kylpasta 0,3 g" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '38411 - Kylpasta 0,3 g']);">
+            <div class="product-thumb">
+                <a title="Kylpasta 0,3 g" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/kylpasta-0-3-g-p38411">
+                    
+    <img src="/image/Product_134562115724459702/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/kylpasta-0-3-g-p38411" title="Kylpasta 0,3 g">Kylpasta 0,3 g</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">29:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Kylpasta - Silikonbaserad" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '38468 - Kylpasta']);">
+            <div class="product-thumb">
+                <a title="Kylpasta" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/kylpasta-p38468">
+                    
+    <img src="/image/Product_136543002021995065/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/kylpasta-p38468" title="Kylpasta - Silikonbaserad">Kylpasta</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">89:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Silverpasta - Kylpasta" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '38435 - Silverpasta']);">
+            <div class="product-thumb">
+                <a title="Silverpasta" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/silverpasta-p38435">
+                    
+    <img src="/image/Product_134562116001666786/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/kylpasta/silverpasta-p38435" title="Silverpasta - Kylpasta">Silverpasta</a>
+                
+                    <span class="variant">Finns i 3 st varianter</span>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		<span class="from">Fr. </span>
+		<span class="bestPrice">49:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Isopropanol / Isopropylalkohol - Fabrikat: Teslanol" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '18303 - Isopropanol / Isopropylalkohol']);">
+            <div class="product-thumb">
+                <a title="Isopropanol / Isopropylalkohol" href="/sortiment/hus-halsa-fritid/kemi-spray-lim/spray-olja-isopropanol/isopropanol-isopropylalkohol-p18303">
+                    
+    <img src="/image/Product_130399510924351785/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/hus-halsa-fritid/kemi-spray-lim/spray-olja-isopropanol/isopropanol-isopropylalkohol-p18303" title="Isopropanol / Isopropylalkohol - Fabrikat: Teslanol">Isopropanol / Isopropylalkohol</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">129:- </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Tryckluftspray PRF 4-44 - Tryckluft på burk" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '18381 - Tryckluftspray PRF 4-44']);">
+            <div class="product-thumb">
+                <a title="Tryckluftspray PRF 4-44" href="/sortiment/hus-halsa-fritid/kemi-spray-lim/spray-olja-isopropanol/tryckluftspray-prf-4-44-p18381">
+                    
+    <img src="/image/Product_139547587212769405/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/hus-halsa-fritid/kemi-spray-lim/spray-olja-isopropanol/tryckluftspray-prf-4-44-p18381" title="Tryckluftspray PRF 4-44 - Tryckluft på burk">Tryckluftspray PRF 4-44</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">149:- </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="ESD-armband - Antistatarmband med kabel" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '38324 - ESD-armband']);">
+            <div class="product-thumb">
+                <a title="ESD-armband" href="/sortiment/dator-kringutrustning/natverk/installationsmateriel/esd-antistat/esd-armband-p38324">
+                    
+    <img src="/image/Product_130399801130855106/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/natverk/installationsmateriel/esd-antistat/esd-armband-p38324" title="ESD-armband - Antistatarmband med kabel">ESD-armband</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">39:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Tryckluft för kontorsrengöring" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '18094 - Tryckluft för kontorsrengöring']);">
+            <div class="product-thumb">
+                <a title="Tryckluft f&#246;r kontorsreng&#246;ring" href="/sortiment/dator-kringutrustning/datortillbehor/rengoring/tryckluft-for-kontorsrengoring-p18094">
+                    
+    <img src="/image/Product_130399510228813696/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datortillbehor/rengoring/tryckluft-for-kontorsrengoring-p18094" title="Tryckluft för kontorsrengöring">Tryckluft f&#246;r kontorsreng&#246;ring</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">99:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Antec KÜHLER H2O 620 - Liquid Cooling System" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '98999 - Antec KÜHLER H2O 620']);">
+            <div class="product-thumb">
+                <a title="Antec K&#220;HLER H2O 620" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/processorkylare/antec-kuhler-h2o-620-p98999">
+                    
+    <img src="/image/Product_13154167267545850/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/processorkylare/antec-kuhler-h2o-620-p98999" title="Antec KÜHLER H2O 620 - Liquid Cooling System">Antec K&#220;HLER H2O 620</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">599:- </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Bagagevåg - För resväskor etc." onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '48049 - Bagagevåg']);">
+            <div class="product-thumb">
+                <a title="Bagagev&#229;g" href="/sortiment/el/verktyg/matinstrument/vagar/ovriga-vagar/bagagevag-p48049">
+                    
+    <img src="/image/Product_134977200458958840/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/el/verktyg/matinstrument/vagar/ovriga-vagar/bagagevag-p48049" title="Bagagevåg - För resväskor etc.">Bagagev&#229;g</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">49:90 </span>
+		<span class="standardPrice">Ord. 129:-</span>
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Noctua NH-U9B SE2 - Processorkylare - tornmodell" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '98750 - Noctua NH-U9B SE2']);">
+            <div class="product-thumb">
+                <a title="Noctua NH-U9B SE2" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/processorkylare/noctua-nh-u9b-se2-p98750">
+                    
+    <img src="/image/Product_130400689833791058/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/processorkylare/noctua-nh-u9b-se2-p98750" title="Noctua NH-U9B SE2 - Processorkylare - tornmodell">Noctua NH-U9B SE2</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">549:- </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="CPU-kylare - För AM2, AM3, FM1, Sempron" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '38445 - CPU-kylare']);">
+            <div class="product-thumb">
+                <a title="CPU-kylare" href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/processorkylare/cpu-kylare-p38445">
+                    
+    <img src="/image/Product_136635492384945342/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/dator-kringutrustning/datorkomponenter/kylning/processorkylare/cpu-kylare-p38445" title="CPU-kylare - För AM2, AM3, FM1, Sempron">CPU-kylare</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">99:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+        <li class="clickableArea" title="Krokodilarmar" onClick="_gaq.push(['_trackEvent', 'Ytor', 'Andra köpte även', '40010 - Krokodilarmar']);">
+            <div class="product-thumb">
+                <a title="Krokodilarmar" href="/sortiment/el/verktyg/lodning/krokodilarmar/krokodilarmar-p40010">
+                    
+    <img src="/image/Product_130399956274924340/thumbs/1" alt=""  />
+
+                </a>
+            </div>
+            <div class="product-info">
+                <a href="/sortiment/el/verktyg/lodning/krokodilarmar/krokodilarmar-p40010" title="Krokodilarmar">Krokodilarmar</a>
+                
+            </div>
+            
+
+
+	
+
+	
+
+	<div class="price">
+		
+		<span class="bestPrice">69:90 </span>
+		
+	</div>
+	
+	
+        </li>
+		
+    </ul>
+			
+			</div>
+		
+
+		</div>
+	
+		<div class="productPageFooter clearfix">
+			<div class="productDetails panel">
+				<a name="ProductDetailedInformation"></a>
+				<section>
+					<h3>Arctic Silver 5</h3>
+
+					
+						<p>Arctic Silver 5 är designad för att användas till moderna högeffektsprocessorer och högpresterande kylflänsar. Eliminerar de mikroskopiska luftfickor som uppstår då varken kylflänsen eller processorkapseln är 100% plana. De små mikroskopiska luftfickorna skapar en isolerande barriär som inte låter värmen effektivt spridas till kylflänsen. <br/> <br/>Med en kylpasta applicerad elimineras dessa små fickor och värmen förflyttar sig obehindrat till kylflänsen, med lägra CPU-temperatur och lägre ljudnivå från fläkten som följd. <br/> <br/>Arctic Silver 5 innehåller inget silikon, utan är designad att härda över de första 50-200 timmarna. För att sen ge en stabil kontakt mellan ytorna.</p>
+					
+			    
+				</section>
+			
+				
+		<section class="support">
+			<h3>Support</h3>
+			<dl>
+				
+					<dt>Länkar</dt>
+					
+						<dd>
+						
+								<img src="/resources/sv-se/SupportSettingsIcons/Link.png" />
+							
+							<a target="_blank" href="http://www.arcticsilver.com/as5.htm">Läs mer</a>
+						
+						</dd>
+					
+
+			</dl>
+		</section>
+	
+			</div>
+
+
+			<div class="relatedContent panel">
+				
+
+				<section>
+					
+    <div class="rawBanner">
+        <img src="/resources/sv-se/ytor/produkt/130916_fraktfritt_produkt.jpg" alt="Fraktfritt! Handla för 300:- så bjuder vi på frakten">
+    </div>
+
+				</section>
+
+				
+					<section>
+						
+					</section>
+				
+
+			</div>
+		</div>
+	
+	</div>
+
+
+            </div>
+        </div>
+
+		<footer class="clearfix footerContainer">
+			<div class="outerContainer clearfix">          
+				
+
+<div id="Footer">
+
+	<div class="footerRow clearfix">
+		
+		<ul>
+			<li class="block">
+				<h3> Kundtj&#228;nst </h3>
+				<ul>
+					
+						<li>
+							<a href="/kundtjanst#ContactUs">Kontakta oss</a>
+						</li>
+					
+						<li>
+							<a href="/kundtjanst#att-handla-hos-kjell">Att handla hos Kjell</a>
+						</li>
+					
+						<li>
+							<a href="/kundtjanst#betalning">Betalning</a>
+						</li>
+					
+						<li>
+							<a href="/kundtjanst#leverans">Leverans</a>
+						</li>
+					
+						<li>
+							<a href="/kundtjanst#support-returer">Support &amp; returer</a>
+						</li>
+					
+				</ul>
+			</li>
+
+			
+				<li class="block">
+					<h3> Om oss </h3>
+					<ul>
+						
+								<li> <a href="/om-oss/lediga-jobb"> Lediga jobb </a></li>
+							
+								<li> <a href="/om-oss/om-kjell-company"> Om Kjell &amp; Company </a></li>
+							
+								<li> <a href="/om-oss/sa-jobbar-vi"> S&#229; jobbar vi </a></li>
+							
+								<li> <a href="/butiker">V&#229;ra butiker</a> </li>
+								
+					</ul>
+				</li>
+			
+				<li class="block">
+					<h3> F&#246;lj oss p&#229;... </h3>
+					<ul>
+						
+								<li> <a href="/folj-oss-pa/youtube"> Youtube </a></li>
+							
+								<li> <a href="/folj-oss-pa/facebook"> Facebook </a></li>
+							
+								<li> <a href="/folj-oss-pa/iphone-android-app"> iPhone &amp; Android-app </a></li>
+							
+								<li> <a href="/folj-oss-pa/nyhetsbrev"> Nyhetsbrev </a></li>
+							
+					</ul>
+				</li>
+			
+				<li class="block">
+					<h3> Aktuellt </h3>
+					<ul>
+						
+								<li> <a href="/aktuellt/aktuella-kataloger-och-utskick"> Aktuella kataloger och utskick </a></li>
+							
+								<li> <a href="/samarbetspartners">Samarbetspartners</a> </li>
+								
+								<li> <a href="/aktuellt/tavlingsresultat"> T&#228;vlingsresultat </a></li>
+							
+					</ul>
+				</li>
+			
+
+			<li class="block paymentOptions">
+				<h3>Betalningsalternativ</h3>
+				<ul>
+					<li>
+						<div class="iconAreaAccordion"><i class="paymentsIcon"></i></div>
+					</li>
+				</ul>
+			</li>
+
+		</ul>
+
+	</div>
+	
+	<div class="footerRow clearfix">
+
+		<div class="iconArea"><i class="paymentsIcon"></i></div>
+
+		<div id="Newsletter" class="newsletterArea clearfix">
+		
+			<h3>Nyhetsbrev</h3>
+			<div class="subHeader">Ta del av våra oemotståndliga erbjudanden, anmäl dig redan idag!</div>
+			<div class="prosList">
+				<ul>
+					<li>Förtur på kampanjer</li>
+					<li>Värdecheckar</li>
+				</ul>
+				<ul>
+					<li>Rabatter</li>
+					<li>Nyheter</li>
+				</ul>
+			</div>
+			<div class="submit">
+				<a class="greenButton generalBtn subscribeNewsletter" href="/.mvc/UserRegistration/NewsletterRegistration">Jag vill ha Kjells nyhetsbrev!</a>
+				<a class="moreInfo" href="/folj-oss-pa/nyhetsbrev">Mer info och avanmälan av nyhetsbrev</a>
+				<div id="NewsLetterResponsive" class="newsLetterResponsive"></div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="footerThirdRow footerBanner clearfix">
+
+		
+
+		<span>NORDENS BREDASTE SORTIMENT AV</span>
+		<span>TILLBEHÖR TILL HEMELEKTRONIK</span>
+
+	</div>
+
+</div>  
+			</div>
+		</footer>
+    
+        <div id="UnsupportedBrowserVersionWarning" class="panel siteFunctionalityWarning">
+            <h2> Meddelande från Kjell & Company</h2>
+            <p> 
+                Din webbläsare är gammal, och vi kan inte lova att innehåll visas korrekt, eller full funktionalitet. 
+                Vår rekommendation är att du
+
+                <a href="http://windows.microsoft.com/sv-SE/internet-explorer/products/ie/home">uppdaterar din webbläsare nu!</a>
+            </p>
+        </div>
+    
+        <div id="JavascriptDisabledWarning" class="panel siteFunctionalityWarning">
+			
+            <h2> Meddelande från Kjell & Company</h2>
+            <p> 
+                Javascript är ej aktiverat i din webbläsare! För full funktionalitet på siten rekommenderar vi att du
+                <a href="http://enable-javascript.com/">slår på Javascript.</a>
+            </p>
+        </div>
+    
+        <div id="CookiesDisabledWarning" class="panel siteFunctionalityWarning">
+			
+            <h2> Meddelande från Kjell & Company</h2>
+            <p> 
+                Cookies är avslaget i din webbläsare. För att kunna använda internetbutiken måste din browser stödja cookies
+                <a href="/kundtjanst/cookies">(mer information)</a>.
+            </p>
+        </div>
+
+    </div>
+
+
+	
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+     <script type="text/javascript" src="/media/js/plugins.js?r=5FF82ED2CBE9D25FE21D0519A05DC223"></script>
+	 
+	 <script type="text/javascript" src="/media/js/application.js?r=F64C6DD60D92E728630E199AABBA2E39"></script>
+
+    <script type="text/javascript">
+        var addthis_config = { "data_track_clickback": true, "ui_click": true, pubid:"kjelloco" };
+        var addthis_share = { templates: { twitter: 'Kolla in {{lurl}} via @kjelloco'} };
+    </script>
+    <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=kjelloco&async=1"></script>
+    
+    
+    <script type="text/javascript" src="/media/js/application.product.min.js?r=B918768EF95142D1B2ADB922801F6889"></script>
+
+
+    <script type="text/javascript">
+        var _gaq = [['_setAccount', 'UA-7552024-1'], ['_trackPageview']];
+   
+        
+            (function(d,t){var ga=d.createElement(t),s=d.getElementsByTagName(t)[0];ga.async=1;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            s.parentNode.insertBefore(ga,s)}(document,'script'));
+        
+    </script>
+
+    
+
+        
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 987400869;
+            var google_conversion_language = "en";
+            var google_conversion_format = "3";
+            var google_conversion_color = "666666";
+            var google_conversion_label = "ltG3CMvkqwIQpZXq1gM"; var google_conversion_value = 0;
+            /* ]]> */
+        </script>
+        <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+            <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt=""
+            src="http://www.googleadservices.com/pagead/conversion/987400869/?label=ltG3
+            CMvkqwIQpZXq1gM&amp;guid=ON&amp;script=0"/>
+            </div>
+        </noscript>
+    
+    <script type="text/javascript">
+    	if ($('.addthis_toolbox').length) {
+    		$(function () {
+    			addthis.init();
+    		});
+    	}
+    </script>
+
+    <!-- Segment Pixel - Kjell & Company Retargeting - DO NOT MODIFY -->
+<script src="http://ib.adnxs.com/seg?add=798240&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+
+
+<!-- Adform Tracking Code BEGIN -->
+<!-- Point: "Kjell - Start (Landing Page)" (Kjell.com/) -->
+<script type="text/javascript">
+var _adftrack = {
+    pm: 36646,
+    id: 150196
+};
+(function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='https://track.adform.net/serving/scripts/trackpoint/async/';var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);})();
+</script>
+<noscript>
+    <p style="margin:0;padding:0;border:0;">
+        <img src="https://track.adform.net/Serving/TrackPoint/?pm=36646&amp;lid=150196" width="1" height="1" alt="" />
+    </p>
+</noscript>
+<!-- Adform Tracking Code END -->
+
+</body>
+</html>
